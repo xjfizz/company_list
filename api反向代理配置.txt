@@ -1,0 +1,11 @@
+后台管理： /api
+
+华软： /huaruan/api
+
+24ud：/24ud/api
+
+woho：/woho/api
+
+玥配： /yuepei/api
+
+简氏物业： /jswy/api
